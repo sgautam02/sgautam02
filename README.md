@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fsoftware&psig=AOvVaw2B2W7GdOG4Dte43AZ0aWhd&ust=1703429836673000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiqvejopYMDFQAAAAAdAAAAABAE">
+    <img width="200" src="https://i.gifer.com/75ez.gif">
 </p>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
